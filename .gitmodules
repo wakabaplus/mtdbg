@@ -1,0 +1,4 @@
+[submodule "mtdbg/mtk3_bsp2"]
+	path = mtdbg/mtk3_bsp2
+	url = https://github.com/wakabaplus/mtk3_bsp2
+	branch = fix-dbgspt
